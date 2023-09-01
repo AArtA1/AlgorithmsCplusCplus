@@ -8,7 +8,6 @@
 typedef std::complex<double> base;
 
 
-
 // sources
 // https://en.wikipedia.org/wiki/Fast_Fourier_transform
 // https://algorithmica.org/ru/fft
